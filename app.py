@@ -11,25 +11,25 @@ st.title("🚔 India Crime Data Analysis Dashboard")
 BASE_PATH = ""
 
 datasets = {
-    "Property Stolen": "10_Property_stolen_and_recovered.csv",
-    "Rape Victims": "20_Victims_of_rape.csv",
-    "Police Complaints": "25_Complaints_against_police.csv",
-    "Trial of Violent Crimes": "28_Trial_of_violent_crimes_by_courts.csv",
-    "Trial Period": "29_Period_of_trials_by_courts.csv",
-    "Auto Theft": "30_Auto_theft.csv",
-    "Serious Fraud": "31_Serious_fraud.csv",
-    "Murder Victims": "32_Murder_victim_age_sex.csv",
-    "Attempt to Murder": "33_CH_not_murder_victim_age_sex.csv",
-    "Human Rights Violation": "35_Human_rights_violation_by_police.csv",
-    "Police Housing": "36_Police_housing.csv",
-    "Kidnapping Purpose": "39_Specific_purpose_of_kidnapping_and_abduction.csv",
-    "Custodial Death (Remanded)": "40_01_Custodial_death_person_remanded.csv",
-    "Custodial Death (Not Remanded)": "40_02_Custodial_death_person_not_remanded.csv",
-    "Custodial Death (Production)": "40_03_Custodial_death_during_production.csv",
-    "Custodial Death (Hospital)": "40_04_Custodial_death_during_hospitalization_or_treatment.csv",
-    "Custodial Death (Others)": "40_05_Custodial_death_others.csv",
-    "Crime Against Women": "42_Cases_under_crime_against_women.csv",
-    "Arrests (Women Crime)": "43_Arrests_under_crime_against_women.csv"
+    "Property Stolen": "data/10_Property_stolen_and_recovered.csv",
+    "Rape Victims": "data/20_Victims_of_rape.csv",
+    "Police Complaints": "data/25_Complaints_against_police.csv",
+    "Trial of Violent Crimes": "data/28_Trial_of_violent_crimes_by_courts.csv",
+    "Trial Period": "data/29_Period_of_trials_by_courts.csv",
+    "Auto Theft": "data/30_Auto_theft.csv",
+    "Serious Fraud": "data/31_Serious_fraud.csv",
+    "Murder Victims": "data/32_Murder_victim_age_sex.csv",
+    "Attempt to Murder": "data/33_CH_not_murder_victim_age_sex.csv",
+    "Human Rights Violation": "data/35_Human_rights_violation_by_police.csv",
+    "Police Housing": "data/36_Police_housing.csv",
+    "Kidnapping Purpose": "data/39_Specific_purpose_of_kidnapping_and_abduction.csv",
+    "Custodial Death (Remanded)": "data/40_01_Custodial_death_person_remanded.csv",
+    "Custodial Death (Not Remanded)": "data/40_02_Custodial_death_person_not_remanded.csv",
+    "Custodial Death (Production)": "data/40_03_Custodial_death_during_production.csv",
+    "Custodial Death (Hospital)": "data/40_04_Custodial_death_during_hospitalization_or_treatment.csv",
+    "Custodial Death (Others)": "data/40_05_Custodial_death_others.csv",
+    "Crime Against Women": "data/42_Cases_under_crime_against_women.csv",
+    "Arrests (Women Crime)": "data/43_Arrests_under_crime_against_women.csv"
 }
 
 # SELECT DATASET
